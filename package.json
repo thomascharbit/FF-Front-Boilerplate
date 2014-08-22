@@ -1,0 +1,22 @@
+{
+  "name": "fresh-front-boilerplate",
+  "title": "Fresh Front Boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Front-end development",
+  "author": "Thomas Charbit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thomas-charbit/fresh-front-boilerplate.git"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.4.0",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-modernizr": "https://github.com/doctyper/gulp-modernizr/tarball/master/",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "tiny-lr": "^0.1.0"
+  }
+}

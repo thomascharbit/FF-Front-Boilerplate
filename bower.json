@@ -1,0 +1,16 @@
+{
+  "name": "fresh-boilerplate",
+  "version": "1.0.0",
+  "authors": "Thomas Charbit",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "normalize-scss": "~3.0.1"
+  }
+}
