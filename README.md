@@ -16,6 +16,7 @@ It is packed with the following libs :
 ## Install
 
 	$ git clone https://github.com/FreshFlesh/FF-Front-Boilerplate.git
+	$ cd FF-Front-Boilerplate/
 	$ npm install
 	$ bower install
 	$ gulp
